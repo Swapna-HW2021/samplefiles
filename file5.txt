@@ -1,0 +1,7 @@
+this is a file created using cat command
+
+cd
+mkdir
+touch <file name>
+echo 
+cat
